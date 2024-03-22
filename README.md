@@ -2,6 +2,8 @@
 
 A Python implementation of the classic game "Bulls and Cows" that allows you to play against an AI. In this game, you and the AI try to guess each other's secret 4-digit numbers with the digits all being unique. After each guess, the number of "bulls" and "cows" is reported back. A "bull" is a correct digit in the correct position, and a "cow" is a correct digit in the wrong position.
 
+![image](https://github.com/KPEKEP/bullsandcows/assets/2512552/d4c0ea05-ba21-48cf-b14b-756ad021fd19)
+
 ## How to Play
 
 1. **Start the Game:** Run the script to start playing. You will be playing against the AI.
